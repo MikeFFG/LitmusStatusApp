@@ -35,7 +35,7 @@ namespace LitmusStatus.Controllers
             string xml = await GetTestStatus(BrowserUrlParameters);
 
             // Parse and don't sort (requirements stipulate sorting
-            // e-mail clients and not browsers specifically.
+            // e-mail clients and not browsers specifically).
             clients = ParseXML(xml);
 
             return View(clients);
