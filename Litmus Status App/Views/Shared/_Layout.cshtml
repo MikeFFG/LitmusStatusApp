@@ -1,0 +1,20 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>@ViewBag.Title</title>
+    <link href="@Url.Content("~/Content/Site.css")" rel="stylesheet" type="text/css" />
+    <script src="@Url.Content("~/Scripts/jquery-1.5.1.min.js")"></script>
+    <script src="@Url.Content("~/Scripts/modernizr-1.7.min.js")"></script>
+</head>
+<body>
+    <ul id="menu">
+        <li>@Html.ActionLink("Home", "Index", "Home")</li>
+        <li>@Html.ActionLink("Browsers", "Browsers")</li>
+        <li>@Html.ActionLink("E-mail Clients", "EmailClients")</li>
+    </ul>
+    <section id="main">
+        @RenderBody()
+    </section>
+</body>
+</html>

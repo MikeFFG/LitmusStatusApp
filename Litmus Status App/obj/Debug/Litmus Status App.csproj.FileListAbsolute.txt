@@ -1,0 +1,40 @@
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\Litmus Status App\Litmus Status App\bin\roslyn\csc.exe
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\Litmus Status App\Litmus Status App\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\Litmus Status App\Litmus Status App\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\Litmus Status App\Litmus Status App\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\Litmus Status App\Litmus Status App\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\Litmus Status App\Litmus Status App\bin\roslyn\Microsoft.CSharp.Core.targets
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\Litmus Status App\Litmus Status App\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\Litmus Status App\Litmus Status App\bin\roslyn\System.Collections.Immutable.dll
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\Litmus Status App\Litmus Status App\bin\roslyn\System.Reflection.Metadata.dll
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\Litmus Status App\Litmus Status App\bin\roslyn\vbc.exe
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\Litmus Status App\Litmus Status App\bin\roslyn\VBCSCompiler.exe
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\Litmus Status App\Litmus Status App\bin\roslyn\VBCSCompiler.exe.config
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\Litmus Status App\Litmus Status App\bin\Litmus Status App.dll.config
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\Litmus Status App\Litmus Status App\bin\Litmus Status App.dll
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\Litmus Status App\Litmus Status App\bin\Litmus Status App.pdb
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\Litmus Status App\Litmus Status App\bin\Antlr3.Runtime.dll
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\Litmus Status App\Litmus Status App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\Litmus Status App\Litmus Status App\bin\Microsoft.Web.Infrastructure.dll
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\Litmus Status App\Litmus Status App\bin\Newtonsoft.Json.dll
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\Litmus Status App\Litmus Status App\bin\System.Web.Helpers.dll
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\Litmus Status App\Litmus Status App\bin\System.Web.Mvc.dll
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\Litmus Status App\Litmus Status App\bin\System.Web.Optimization.dll
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\Litmus Status App\Litmus Status App\bin\System.Web.Razor.dll
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\Litmus Status App\Litmus Status App\bin\System.Web.WebPages.Deployment.dll
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\Litmus Status App\Litmus Status App\bin\System.Web.WebPages.dll
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\Litmus Status App\Litmus Status App\bin\System.Web.WebPages.Razor.dll
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\Litmus Status App\Litmus Status App\bin\WebGrease.dll
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\Litmus Status App\Litmus Status App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\Litmus Status App\Litmus Status App\bin\System.Web.Helpers.xml
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\Litmus Status App\Litmus Status App\bin\System.Web.Mvc.xml
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\Litmus Status App\Litmus Status App\bin\System.Web.Optimization.xml
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\Litmus Status App\Litmus Status App\bin\System.Web.Razor.xml
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\Litmus Status App\Litmus Status App\bin\System.Web.WebPages.xml
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\Litmus Status App\Litmus Status App\bin\System.Web.WebPages.Deployment.xml
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\Litmus Status App\Litmus Status App\bin\System.Web.WebPages.Razor.xml
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\Litmus Status App\Litmus Status App\bin\Antlr3.Runtime.pdb
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\Litmus Status App\Litmus Status App\bin\Newtonsoft.Json.xml
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\Litmus Status App\Litmus Status App\obj\Debug\Litmus Status App.csprojResolveAssemblyReference.cache
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\Litmus Status App\Litmus Status App\obj\Debug\Litmus Status App.dll
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\Litmus Status App\Litmus Status App\obj\Debug\Litmus Status App.pdb
